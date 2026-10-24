@@ -4,3 +4,4 @@ __pycache__/
 .venv/
 .env
 data/raw/
+PLANO_CONSULTOR_DADOS_PROCESSO.md
